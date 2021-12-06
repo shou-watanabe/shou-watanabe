@@ -1,3 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shou-watanabe&theme=tokyonight&count_private=true&hide=html,css" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shou-watanabe&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shou-watanabe&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shou-watanabe&theme=solarized)
