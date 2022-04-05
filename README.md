@@ -55,4 +55,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shou-watanabe&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shou-watanabe&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shou-watanabe&theme=solarized)
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/shwatana)](https://github.com/JaeSeoKim/badge42)
+[![shwatana's 42 stats](https://badge42.vercel.app/api/v2/cl1lof6td001109js6q168kvg/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
