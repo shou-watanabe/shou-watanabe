@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **golang** -->
 
+[![shwatana's 42 stats](https://badge42.vercel.app/api/v2/cl1lof6td001109js6q168kvg/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
 <p align="left">
     <h3>Frontend Development:</h3>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
@@ -57,4 +59,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shwatanap&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shwatanap&theme=solarized)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shwatanap&theme=solarized) -->
-[![shwatana's 42 stats](https://badge42.vercel.app/api/v2/cl1lof6td001109js6q168kvg/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
