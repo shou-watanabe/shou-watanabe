@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **golang** -->
 
-[![shwatana's 42 stats](https://badge42.vercel.app/api/v2/cl1lof6td001109js6q168kvg/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+<!-- [![shwatana's 42 stats](https://badge42.vercel.app/api/v2/cl1lof6td001109js6q168kvg/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42) -->
 
 <p align="left">
     <h3>Frontend Development:</h3>
